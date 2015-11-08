@@ -36,6 +36,6 @@
     "gulp-wrap-umd": "^0.2.1"
   },
   "dependencies": {
-    "tether": "^1.1.0"
+    "tether": "git+ssh://git@github.com/mfrye/tether.git"
   }
 }
