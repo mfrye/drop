@@ -10,8 +10,7 @@
     "Nicholas Hwang <nick.joosung.hwang@gmail.com>"
   ],
   "scripts": {
-    "build": "gulp build",
-    "install": "bower install"
+    "build": "gulp build"
   },
   "repository": {
     "type": "git",
